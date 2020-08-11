@@ -1,0 +1,2261 @@
+{
+  "kind": "youtube#activityListResponse",
+  "etag": "BzKshjvaRaPTjRdtHIEfhkhuoSU",
+  "items": [
+    {
+      "kind": "youtube#activity",
+      "etag": "pvU-d7d48rKcAvYqo4BFfUxB2YU",
+      "id": "MTUxNTk2NzQ3NjA5NjYxNjQ2MzYzOTk5NTI=",
+      "snippet": {
+        "publishedAt": "2020-08-06T21:00:09Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Motion Editor, Private Service Connect, TensorFlow 2.3, and more!",
+        "description": "TL;DR 213 | The Google Developer News Show   0:00 Introducing the Motion Editor → https://goo.gle/2C4LtAh   0:42 Introducing Private Service Connect → https://goo.gle/33ALibk   1:05 Cloud Run now supports gradual rollouts and rollbacks → https://goo.gle/2DiIll2   1:32 What's new in TensorFlow 2.3? → https://goo.gle/3fzpbUZ    1:58 Please remember to like, subscribe, and share!  Here to bring you the latest developer news from across Google is Developer Advocate Florina Muntenescu. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs      Watch more #DevShow → https://goo.gle/GDevShow      Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zK7yXqCMuJo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zK7yXqCMuJo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zK7yXqCMuJo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zK7yXqCMuJo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zK7yXqCMuJo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "zK7yXqCMuJo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "rtN-sdjqWMyCmtH_6GmflhOs-x8",
+      "id": "MTUxNTk2MTQyODI2NjYxNjQ2MzY0MDEzNjA=",
+      "snippet": {
+        "publishedAt": "2020-07-30T21:00:26Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Android Jetpack ActivityResult, Recommendations AI, Hilt and Dagger annotations cheat sheet",
+        "description": "TL;DR 212 | The Google Developer News Show   0:00 Jetpack ActivityResult improves inter-activity communication → https://goo.gle/2XcUWg3 0:52 Recommendations AI in beta → https://goo.gle/33dJyo2   1:27 Hilt and Dagger annotations cheat sheet → https://goo.gle/2DpeAhK  2:00 Please remember to like, subscribe, and share!   Here to bring you the latest developer news from across Google is Developer Programs Engineer Andrew Brogdon. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs     Watch more #DevShow → https://goo.gle/GDevShow     Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N1ILe952wVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N1ILe952wVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N1ILe952wVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N1ILe952wVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N1ILe952wVU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "N1ILe952wVU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "NCdw1fLwDVsWrOyN7Mf12GfXmCI",
+      "id": "MTUxNTk1NTM4MDQyNjYxNjQ2MzY0MDA2NTY=",
+      "snippet": {
+        "publishedAt": "2020-07-23T21:00:42Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Learn Android and Kotlin with no programming experience, Paging 3, Bazel 3.4, & more!",
+        "description": "TL;DR 211 | The Google Developer News Show   0:00 Learn Android and Kotlin with no programming experience → https://goo.gle/3fSXGGS  0:35 Getting on the same page with Paging 3 → https://goo.gle/2D2IUi3   1:04 Bazel 3.4 → https://goo.gle/2D2nRw0  1:22 Introducing Google Cloud Confidential Computing with Confidential VMs → https://goo.gle/2ZQnzkR  1:53 New in Chrome 84 → https://goo.gle/2WOkiRj    Here to bring you the latest developer news from across Google is Developer Advocate Florina Muntenescu. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs     Watch more #DevShow → https://goo.gle/GDevShow    Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3kwQTJADABQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3kwQTJADABQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3kwQTJADABQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3kwQTJADABQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3kwQTJADABQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "3kwQTJADABQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "97_o1cg3N6kUIsQ6TS0TI96OOrQ",
+      "id": "MTUxNTk0OTM0NzIyNjYxNjQ2MzY0MDE0ODg=",
+      "snippet": {
+        "publishedAt": "2020-07-16T21:25:22Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Android 11 Beta 2, Google Pay plugin for Magento 2, Cloud Next ‘20 OnAir, & more!",
+        "description": "TL;DR 210 | The Google Developer News Show   0:00 Android 11 Beta 2 and Platform Stability → https://goo.gle/391FRTg   0:34 Google Pay plugin for Magento 2 → https://goo.gle/3eAcOYh   1:00 Canonical enables Linux desktop app support with Flutter → https://goo.gle/3fHQMnW  1:37 Google Cloud Next ‘20 → https://goo.gle/2OxFDdb   2:02 Multi-cloud analytics with BigQuery Omni → https://goo.gle/3jfdVjM   2:30 Introducing a brand new pub.dev → https://goo.gle/39b7zgE    Here to bring you the latest developer news from across Google is Developer Advocate Reto Meier. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs    Watch more #DevShow → https://goo.gle/GDevShow   Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PWKOkIiA95Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PWKOkIiA95Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PWKOkIiA95Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PWKOkIiA95Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PWKOkIiA95Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "PWKOkIiA95Q"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "wyt8pk6b1x9qT-CEBpggTPLGAJE",
+      "id": "MTUxNTk0Mzk2ODE5NjYxNjQ2MzY0MDA5MTI=",
+      "snippet": {
+        "publishedAt": "2020-07-10T16:00:19Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Inspiring Moments | North America Experts Summit 2019",
+        "description": "Miss out on this year’s North America Experts Summit? Catch up on all of the action from the 2019 North America Experts Summit! The Google Developers Experts Program is a community of outstanding professionals, developers, and thought leaders. Experts share their expertise and passion with other developers and tech communities.  Follow the Experts Program on Twitter → https://goo.gle/2LpWdeK Check out technical content created by the Experts on our Medium → https://goo.gle/2LpWpuu  Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Upo2L_XTCs0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Upo2L_XTCs0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Upo2L_XTCs0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Upo2L_XTCs0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Upo2L_XTCs0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "Upo2L_XTCs0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "j3jNpNz1id7B11LYs6qmKDi-H5s",
+      "id": "MTUxNTk0MzI4NTIzNjYxNjQ2MzYzOTkyNDg=",
+      "snippet": {
+        "publishedAt": "2020-07-09T21:02:03Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Android 11 compatibility, SHED types and traits, Google Cloud VMWare Engine, & more!",
+        "description": "TL;DR 209 | The Google Developer News Show   0:00 Android 11 compatibility → https://goo.gle/2Z8wAWd   0:34 New Smart Home SHED types and traits → https://goo.gle/38ELzKF  0:57 Grow your Cloud career→ https://goo.gle/2ZcztFm   1:16 Google Cloud VMWare Engine is GA → https://goo.gle/2CeBrML   1:42 Diversity, equity, and inclusion sessions at Next OnAir → https://goo.gle/2BHz5Gk   1:57 TensorFlow operation fusion in TensorFlow Lite Converter → https://goo.gle/31Xw5jv    Here to bring you the latest developer news from across Google is Developer Advocate Dan Galpin. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs   Watch more #DevShow → https://goo.gle/GDevShow  Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-f_RsNIszhc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-f_RsNIszhc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-f_RsNIszhc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-f_RsNIszhc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-f_RsNIszhc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "-f_RsNIszhc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "u7j_DxlEOGr9YBJHAAQ7KgyGQkw",
+      "id": "MTUxNTk0MjI0MDA1NjYxNjQ2MzY0MDA4NDg=",
+      "snippet": {
+        "publishedAt": "2020-07-08T16:00:05Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Conversational Actions overview - Actions Builder & Actions SDK",
+        "description": "Users can invoke Conversational Actions to fulfill their requests with a conversation when using the Google Assistant. In this video, we go over how Actions are invoked, how a conversation works, and how you can connect web services and apps for additional functionality  Conversation Actions overview → https://goo.gle/2XUUSCJ   Actions Builder & Actions SDK playlist → https://goo.gle/3bEPTtg  Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NQviT1YLCuE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NQviT1YLCuE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NQviT1YLCuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NQviT1YLCuE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NQviT1YLCuE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "NQviT1YLCuE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "6tnEx9IrHqiksrhFAtS9_rA2EFc",
+      "id": "MTUxNTkzNzIzNjA2NjYxNjQ1MzU0NjgyNDA=",
+      "snippet": {
+        "publishedAt": "2020-07-02T21:00:06Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "New privacy and security features in Android 11, AI Adoption Framework, new Flutter tools, & more!",
+        "description": "TL;DR 208 | The Google Developer News Show   0:00 11 Weeks of Android: Privacy and Security → https://goo.gle/3gfqf0W   1:21 A new wave of AR Realism with the ARCore Depth API → https://goo.gle/3dRC3Fd   2:19 Build a transformative AI capability with AI Adoption Framework → https://goo.gle/38ljt79   2:49 Leveraging Temporal Context for Object Detection → https://goo.gle/2Btx2FA   3:32 New tools for Flutter developers, built in Flutter → https://goo.gle/2ZwbfVN    4:24 What's new in DevTools (Chrome 85) → https://goo.gle/2VDhdmr     Here to bring you the latest developer news from across Google is Developer Advocate Laurence Moroney. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs   Watch more #DevShow → https://goo.gle/GDevShow  Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7OIKVs21FyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7OIKVs21FyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7OIKVs21FyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7OIKVs21FyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7OIKVs21FyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "7OIKVs21FyI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "u16s4_2IC-AQj0RoL_PpOEyIP98",
+      "id": "MTUxNTkzNjE5NzE4NjYxNjQ1MzU0NjkyMDA=",
+      "snippet": {
+        "publishedAt": "2020-07-01T16:08:38Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Enhanced Smart Home analytics",
+        "description": "In this video, we go over how to view metrics and metadata for your Smart Home Action using Cloud Monitoring. Stay tuned to find out how to create a robust analytics dashboard to monitor the health and usage of your Smart Home Action.  Monitoring & Logging Documentation → https://goo.gle/31ytjkG   Google Smart Home Developers playlist → https://goo.gle/3cRAbvw  Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NMKTeLJeurA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NMKTeLJeurA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NMKTeLJeurA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NMKTeLJeurA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NMKTeLJeurA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "NMKTeLJeurA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "Pe-Vxzsb0M84P8xnAy9MboYwo4k",
+      "id": "MTUxNTkzMjA2MjExNjYxNjQ1MzU0NzA0MTY=",
+      "snippet": {
+        "publishedAt": "2020-06-26T21:16:51Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Creating an Action for the Google Assistant with Actions SDK (Behind the Actions, Ep. 8)",
+        "description": "Conversational Actions extend the Google Assistant with your content. In this episode, Jessica Dene Earley-Cha goes over major concepts and builds a Conversational Action using the Actions SDK.  What’s covered in this episode:   0:00 - Intro 0:24 - Talk to my test app 1:38 - How Conversational Actions work 2:09 - How to get started 8:12 - Scenes 11:41 - Intents 17:40 - Slots 23:29 - Conditions 27:08 - Game loop 37:13 - Intent match 39:48 - Training phrases 43:57 - Finishing up  Documentation → https://goo.gle/2XUUSCJ Actions samples → https://goo.gle/30w6SfC Actions codelab → https://goo.gle/2MPr04d  Behind the Actions Playlist →https://goo.gle/2w2dMbX   Subscribe to the Google Developers channel →  https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V6s5vp4l4WE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V6s5vp4l4WE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V6s5vp4l4WE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V6s5vp4l4WE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V6s5vp4l4WE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "V6s5vp4l4WE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "UygRm9A2TP8bpVox_6aLREhoZqM",
+      "id": "MTUxNTkzMTE4ODE3NjYxNjQ1MzU0NzA0ODA=",
+      "snippet": {
+        "publishedAt": "2020-06-25T21:00:17Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Android Conversation Shortcut API, ML Kit standalone SDK, Google Pay button for React, & more!",
+        "description": "TL;DR 207 | The Google Developer News Show   0:00 Android Conversation Shortcut API and Identity Services Library → https://goo.gle/2B9LbHE  0:37 New features and improvements in ML Kit → https://goo.gle/2VvDjYj  0:55 New improvements to Firestore Security Rules → https://goo.gle/2B66l9K  1:14 Simpler Google Pay integration for React and web developers → https://goo.gle/3i07XTa  1:40 Announcing Actions Builder & Actions SDK → https://goo.gle/3fSfHEO  2:09 Open Match is now 1.0 → https://goo.gle/382aB67    Here to bring you the latest developer news from across Google is Developer Advocate Timothy Jordan. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs  Watch more #DevShow → https://goo.gle/GDevShow Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gXVQiiuKYC4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gXVQiiuKYC4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gXVQiiuKYC4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gXVQiiuKYC4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gXVQiiuKYC4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "gXVQiiuKYC4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "GJG947I2iKADKwxx8fQRpojfstg",
+      "id": "MTUxNTkzMDkwMDMwNjYxNjQ1MzU0Njk1ODQ=",
+      "snippet": {
+        "publishedAt": "2020-06-25T13:00:30Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "AR Realism with the ARCore Depth API",
+        "description": "With the ARCore Depth API, developers can use our depth-from-motion algorithms to create a depth map with a single RGB camera to enhance AR realism and enable new interaction types. Hear more about how Illumix, Snap and TeamViewer use the API.  ARCore Depth Lab open source project→ https://goo.gle/3hYXd7v    Watch more Blending Realities with the ARCore Depth API → https://goo.gle/3dsE7mF  Subscribe to Google Developers! → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q3Jd98xyBAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q3Jd98xyBAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q3Jd98xyBAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q3Jd98xyBAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q3Jd98xyBAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "q3Jd98xyBAA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "l7wbozCC9rYYExzqvTlmqDHcWuM",
+      "id": "MTUxNTkzMDM5NzI4NjYxNjQ1MzU0NzA5OTI=",
+      "snippet": {
+        "publishedAt": "2020-06-24T23:02:08Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Scenes - Actions Builder & Actions SDK",
+        "description": "In this episode, we teach you how to use Scenes to process user input and construct a prompt, involve logic, evaluate conditions, and see what data you have. Stay tuned for a more in-depth look of the different stages of Scene: activation, execution, and transition.  Documentation → https://goo.gle/2XUUSCJ  Actions samples → https://goo.gle/30w6SfC  Actions codelab → https://goo.gle/2MPr04d   Actions Builder & Actions SDK playlist → https://goo.gle/3bEPTtg  Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CI-dSFP6_g4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CI-dSFP6_g4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CI-dSFP6_g4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CI-dSFP6_g4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CI-dSFP6_g4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "CI-dSFP6_g4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "zWvAGYAE19DaPkE6n8UyGhXHask",
+      "id": "MTUxNTkzMDE0NDAwNjYxNjQ1MzU0NzAzNTI=",
+      "snippet": {
+        "publishedAt": "2020-06-24T16:00:00Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Machine Learning Foundations: Ep #10 - Using NLP to build a sarcasm classifier",
+        "description": "Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow.  In Episode 10, we’re going to put our knowledge of how to preprocess text data to use and train a text classifier to detect sarcasm in news headlines.  Sarcasm in News Headlines Dataset by Rishabh Misra → https://goo.gle/3c6A6Ur  Sarcasm detector Colab 1 → https://goo.gle/3gwBKSP  Sarcasm detector Colab 2 →  https://goo.gle/3d6sIJY   TensorFlow is Google’s end-to-end open source machine learning platform. For more videos about TensorFlow, subscribe to the TF YouTube channel → https://goo.gle/TensorFlow   Machine Learning Foundations playlist → https://goo.gle/ml-foundations  Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-8XmD2zsFBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-8XmD2zsFBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-8XmD2zsFBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-8XmD2zsFBI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-8XmD2zsFBI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "-8XmD2zsFBI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "LH_FU9Fbj04raDITdEfISeJV9sU",
+      "id": "MTUxNTkyOTI0NzQ4NjYxNjQ1MzU0Njk2NDg=",
+      "snippet": {
+        "publishedAt": "2020-06-23T15:05:48Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Intents - Actions Builder & Actions SDK",
+        "description": "In this episode, we go over how you can process a user's input and organize variations of input with intents. Stay tuned to learn about using intents to help build your invocation and conversation models.   Documentation → https://goo.gle/2XUUSCJ  Actions samples → https://goo.gle/30w6SfC  Actions codelab → https://goo.gle/2MPr04d   Actions Builder & Actions SDK playlist → https://goo.gle/3bEPTtg  Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HAsFJTNIwTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HAsFJTNIwTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HAsFJTNIwTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HAsFJTNIwTg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HAsFJTNIwTg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "HAsFJTNIwTg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "VkjYUhmDtV9VpemGO-ypdLsODRM",
+      "id": "MTUxNTkyODM4MDc0NjYxNjQ1MzU0NjkxMzY=",
+      "snippet": {
+        "publishedAt": "2020-06-22T15:01:14Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Actions Project - Actions Builder & Actions SDK",
+        "description": "In this episode, we go over how to build Conversational Actions for the Google Assistant by creating an Actions Project. Stay tuned to learn more about the four main parts of an Actions Project: project information, invocation model, conversation model, and web services and web app.  Documentation → https://goo.gle/2XUUSCJ  Actions samples → https://goo.gle/30w6SfC  Actions codelab → https://goo.gle/2MPr04d   Actions Builder & Actions SDK playlist → https://goo.gle/3bEPTtg  Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BbT5Q9QxpiI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BbT5Q9QxpiI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BbT5Q9QxpiI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BbT5Q9QxpiI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BbT5Q9QxpiI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "BbT5Q9QxpiI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "ZHhjxgrL-hqRtWcSkCe0P21x4x8",
+      "id": "MTUxNTkyNjY4ODEwNjYxNjQ2Mzc0Nzc1ODQ=",
+      "snippet": {
+        "publishedAt": "2020-06-20T16:00:10Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Machine Learning Foundations: Ep #9 - Using the Sequencing APIs",
+        "description": "Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow.  In Episode 9 we’ll take the next step in Natural Language Processing by turning sentences into sequences of tokens, and we’ll explore the tools that make this very simple to do in TensorFlow.  Sentence array example → https://goo.gle/2ThBlbJ  TensorFlow is Google’s end-to-end open source machine learning platform. For more videos about TensorFlow, subscribe to the TF YouTube channel → https://goo.gle/TensorFlow  Machine Learning Foundations playlist → https://goo.gle/ML-Foundations Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L3suP4g8p7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L3suP4g8p7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L3suP4g8p7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L3suP4g8p7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L3suP4g8p7U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "L3suP4g8p7U"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "SdLMMrHb-CkNH7KqltiNl74liVU",
+      "id": "MTUxNTkyNTE0MDI1NjYxNjM1MzQwNTM0NTY=",
+      "snippet": {
+        "publishedAt": "2020-06-18T21:00:25Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Android 11 Beta, Google Play Asset Delivery, Firebase Crashlytics SDK, & much more!",
+        "description": "TL;DR 206 | The Google Developer News Show   0:00 Android 11 Beta → https://goo.gle/3fzChBS 0:25 Introducing Google Play Asset Delivery → https://goo.gle/30R2pEn 0:47 Firebase Crashlytics SDK now publicly available → https://goo.gle/30SQxS8 1:05 Filestore now supports high performance → https://goo.gle/2YchJtr 1:33 New features from Google Maps Platform → https://goo.gle/3hCoRHd 1:53 Custom Cloud Monitoring dashboards → https://goo.gle/2AKHmsq 2:15 Introducing table-level access controls in BigQuery → https://goo.gle/3fzMcaJ 2:39 Introducing cross-region replica for Cloud SQL → https://goo.gle/2Bj9p1Q 2:49 Announcing sound null safety for Dart → https://goo.gle/2UTnEBr  Here to bring you the latest developer news from across Google is Developer Advocate Timothy Jordan. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs  Watch more #DevShow → https://goo.gle/GDevShow Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZH5WnN5dtvk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZH5WnN5dtvk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZH5WnN5dtvk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZH5WnN5dtvk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZH5WnN5dtvk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "ZH5WnN5dtvk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "xOrOM34pwWSOzZt6t2tSTPPuY2g",
+      "id": "MTUxNTkyNDkyMjU5NjYxNjM1MzQwNTQ3MzY=",
+      "snippet": {
+        "publishedAt": "2020-06-18T14:57:39Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Overview - Actions Builder & Actions SDK",
+        "description": "In this video, we give a brief overview of the Actions Builder and Actions SDK, and how they work together seamlessly to build Conversational Actions for the Google Assistant!  Documentation → https://goo.gle/2XUUSCJ  Actions samples → https://goo.gle/30w6SfC   Actions Builder & Actions SDK playlist → https://goo.gle/3bEPTtg  Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IKoyKMKTHag/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IKoyKMKTHag/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IKoyKMKTHag/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IKoyKMKTHag/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IKoyKMKTHag/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "IKoyKMKTHag"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "IY6Hjj1axGVv77lLl2z_gqrA-ug",
+      "id": "MTUxNTkyNDE1MDA0NjYxNjM1MzQwNTM3MTI=",
+      "snippet": {
+        "publishedAt": "2020-06-17T17:30:04Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Creating an Action for the Google Assistant with Actions Builder (Behind the Actions, Ep. 7)",
+        "description": "Conversational Actions extend the Google Assistant with your content. In this episode, Jessica Dene Earley-Cha goes over major concepts and builds a Conversational Action using the Actions Builder.  What’s covered in this episode:   0:00 - Intro 0:10 - Build your first Action using Actions Builder 1:42 - How Conversational Actions work 2:27 - Start building your Action 6:56 - Invoke your Action 9:00 - Add transitions 10:17 - Start scene 12:02 - Test scene 13:34 - Add intents  24:54 - Slot filling 27:16 - Add entries 36:41 - Conditions 41:33 - Again scene 50:54 - Slots 1:01:22 - Webhooks  Resources:  Documentation → https://goo.gle/2XUUSCJ Actions samples → https://goo.gle/30w6SfC Actions codelab → https://goo.gle/2MPr04d  Behind the Actions Playlist → https://goo.gle/2w2dMbX   Actions Builder & Actions SDK playlist → https://goo.gle/3bEPTtg  Subscribe to the Google Developers channel →  https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z1hxvniJ18s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z1hxvniJ18s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z1hxvniJ18s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z1hxvniJ18s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z1hxvniJ18s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "Z1hxvniJ18s"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "ohkZ75_3tX1RBp_t6u6yWAUrdks",
+      "id": "MTUxNTkyMzM0OTAyNjYxNjM1MzQwNTY1Mjg=",
+      "snippet": {
+        "publishedAt": "2020-06-16T19:15:02Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Machine Learning Foundations: Ep #8 - Tokenization for Natural Language Processing",
+        "description": "Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow.  In Episode 8 we’ll switch gears from computer vision and take a look at Natural Language Processing, beginning with tokenization--how a computer can represent language in a numeric format that can be used in training neural networks.  Tokenization example →  https://goo.gle/2uO6Gee  TensorFlow is Google’s end-to-end open source machine learning platform. For more videos about TensorFlow, subscribe to the TF YouTube channel → https://goo.gle/TensorFlow  Machine Learning Foundations playlist → https://goo.gle/ml-foundations Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f5YJA5mQD5c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f5YJA5mQD5c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f5YJA5mQD5c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f5YJA5mQD5c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f5YJA5mQD5c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "f5YJA5mQD5c"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "yKZB8NFBwNI6xhxk6BxYH0gxPEo",
+      "id": "MTUxNTkwNjk5NjAzNjYxNjM1MzQwNTU4ODg=",
+      "snippet": {
+        "publishedAt": "2020-05-28T21:00:03Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Announcing Firebase Live, Flutter Day, Java 11 on Google Cloud Functions, & more!",
+        "description": "TL;DR 205 | The Google Developer News Show   •Announcing Firebase Live (Firebase) → https://goo.gle/3d4ofrb •Firebase Emulator (Firebase) → https://goo.gle/3caqzeO •Flutter Day is June 25, 2020 (Flutter) → https://goo.gle/3go1WyR •Introducing Java 11 on Google Cloud Functions (Cloud) → https://goo.gle/3d9stxP •BigQuery turns 10 (Cloud) → https://goo.gle/2M4VBua  Here to bring you the latest developer news from across Google is Developer Advocate Reto Meier. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs  Watch more #DevShow → https://goo.gle/GDevShow Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/onW8gbbDpdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/onW8gbbDpdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/onW8gbbDpdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/onW8gbbDpdQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/onW8gbbDpdQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "onW8gbbDpdQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "E-PPoqhEW9VsRWRuZtGjh07jiHA",
+      "id": "MTUxNTkwNTk1MjEzNjYxNjM1MzQwNTU5NTI=",
+      "snippet": {
+        "publishedAt": "2020-05-27T16:00:13Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Machine Learning Foundations: Ep #7 - Image augmentation and overfitting",
+        "description": "Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow.  In Episode 7 we’ll look at how we can use image augmentation as a technique to artificially extend your datasets to provide new information for the training of your neural network. This can potentially help you with overfitting issues!  Image augmentation example → https://goo.gle/2AKkIzX  TensorFlow is Google’s end-to-end open source machine learning platform. For more videos about TensorFlow, subscribe to the TF YouTube channel → https://goo.gle/TensorFlow  Machine Learning Foundations playlist → https://goo.gle/ml-foundations Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QWdYWwW6OAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QWdYWwW6OAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QWdYWwW6OAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QWdYWwW6OAE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QWdYWwW6OAE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "QWdYWwW6OAE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "-0ZVvygwSTtAH1jkGRE6sZbLKwk",
+      "id": "MTUxNTkwMjQ5NjMzNjYxNjM1MzQwNTY4NDg=",
+      "snippet": {
+        "publishedAt": "2020-05-23T16:00:33Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Machine Learning Foundations: Ep #6 - Convolutional cats and dogs",
+        "description": "Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow.  In Episode 6 we’ll take what we learned about Convolutional Neural Networks in the previous few episodes and apply them to a computer vision scenario that was a Kaggle challenge not long ago--building a classifier for cats and dogs!  Dogs vs. Cats dataset → https://goo.gle/3g5mWdn Exercise 4 answer → https://goo.gle/2ZhV6oq Cats vs. Dogs example → https://goo.gle/2zTHWDu  TensorFlow is Google’s end-to-end open source machine learning platform. For more videos about TensorFlow, subscribe to the TF YouTube channel → https://goo.gle/TensorFlow  Machine Learning Foundations playlist → https://goo.gle/ml-foundations Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nq7_ZYJPWf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nq7_ZYJPWf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nq7_ZYJPWf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nq7_ZYJPWf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nq7_ZYJPWf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "nq7_ZYJPWf0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "NJnQ-qTpRoBKkZbBM_wziy2fL2Y",
+      "id": "MTUxNTkwMDk0ODE3NjYxNjM1MzQwNTQ5OTI=",
+      "snippet": {
+        "publishedAt": "2020-05-21T21:00:17Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Adobe XD support for Flutter, Architecture Framework, temporary closures with Places API, & more!",
+        "description": "TL;DR 204 | The Google Developer News Show   •Announcing Adobe XD support for Flutter (Flutter) → https://goo.gle/2LJ8GJg •Temporary Closures in the Places API - Cloud Blog (Cloud) → https://goo.gle/3bLRvBv •Protecting against resource-heavy ads in Chrome (Chromium) → https://goo.gle/2Xj8HJD •Get to know Google Cloud with our new Architecture Framework (Cloud) → https://goo.gle/2Zl7dkr •What's New In DevTools (Chrome 84) | Web (Web Essentials) → https://goo.gle/2LQu8fr  Here to bring you the latest developer news from across Google is Developer Advocate Andrew Brogdon. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs  Watch more #DevShow → https://goo.gle/GDevShow Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FkiHjuZ2gv8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FkiHjuZ2gv8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FkiHjuZ2gv8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FkiHjuZ2gv8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FkiHjuZ2gv8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "FkiHjuZ2gv8"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "ilqZOIzPeD0mnyK2fV2bUtK6qpc",
+      "id": "MTUxNTg5OTkwNDAwNjYxNjM1MzMwNDYwMzI=",
+      "snippet": {
+        "publishedAt": "2020-05-20T16:00:00Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Machine Learning Foundations: Ep #5 - Classifying real-world images",
+        "description": "Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow.  In Episode 5 we’ll look at how to use Convolutional Neural Networks to classify complex features, with a hands-on example to tackle a more challenging computer vision problem--classifying images of horses and humans!  Exercise 3 answer → https://goo.gle/3dml4e3 Example: Classifying complex images → https://goo.gle/2YLupZ7 Exercise 4 → https://goo.gle/2WbPo5E  TensorFlow is Google’s end-to-end open source machine learning platform. For more videos about TensorFlow, subscribe to the TF YouTube channel → https://goo.gle/TensorFlow  Machine Learning Foundations playlist → https://goo.gle/ml-foundations Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0kYIZE8Gl90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0kYIZE8Gl90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0kYIZE8Gl90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0kYIZE8Gl90/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0kYIZE8Gl90/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "0kYIZE8Gl90"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "mgpFiSxZFGWzGdJZZ-MnRv4ymEs",
+      "id": "MTUxNTg5ODE5MjI4NjYxNjM1MzMwNDg3MjA=",
+      "snippet": {
+        "publishedAt": "2020-05-18T16:27:08Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Developers ML Summit",
+        "description": "Over 600 developers reached across North America for the 1-day Machine Learning Summit hosted by Google Developers. ML Summits are an event series focused on Google’s machine learning and artificial intelligence technologies. If you work in the ML/AI field, and you are interested in enhancing your skills, while networking and learning from Google's ML/AI experts, this Summit is for you!  Learn more here → https://goo.gle/3dM9zga  Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YL8amQAXD2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YL8amQAXD2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YL8amQAXD2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YL8amQAXD2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YL8amQAXD2A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "YL8amQAXD2A"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "2NDZGSE9V5metD92ZZx9Le95ouw",
+      "id": "MTUxNTg5NjQ0ODI2NjYxNjM1MzMwNDU5MDQ=",
+      "snippet": {
+        "publishedAt": "2020-05-16T16:00:26Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Machine Learning Foundations: Ep #4 - Coding with Convolutional Neural Networks",
+        "description": "Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow.  In Episode 4 we’ll put convolutions and pooling to use and create our own convolutional neural networks!  Convolutions example → https://goo.gle/2yzBgd9 Exercise 3 → https://goo.gle/2xFQjBH  TensorFlow is Google’s end-to-end open source machine learning platform. For more videos about TensorFlow, subscribe to the TF YouTube channel → https://goo.gle/TensorFlow  Machine Learning Foundations playlist → https://goo.gle/ml-foundations Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dd8H4fiL9Yc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dd8H4fiL9Yc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dd8H4fiL9Yc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dd8H4fiL9Yc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dd8H4fiL9Yc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "dd8H4fiL9Yc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "XA4zD-Qa32AJhjUyFluUxS8oYQ0",
+      "id": "MTUxNTg5NDkwMDI1NjYxNjM1MzMwNDY2NzI=",
+      "snippet": {
+        "publishedAt": "2020-05-14T21:00:25Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Android 11 Beta plans, Flutter 1.17, Dart 2.8, & much more!",
+        "description": "TL;DR 203 | The Google Developer News Show   •Android 11: Beta Plans (Android) → https://goo.gle/3fVtL1g •Discontinuing support for JSON-RPC and global HTTP batch endpoints (G Devs) → https://goo.gle/2AhZlWr •Announcing Flutter 1.17 (Flutter) → https://goo.gle/3cAMBJ2 •Announcing Dart 2.8 (Dart) → https://goo.gle/2WQlAus •Easy access to stream analytics with SQL, real-time AI, and more (Cloud) → https://goo.gle/3bqNp1H •Introducing Web Vitals: essential metrics for a healthy site (Chromium) → https://goo.gle/2yK1RVi •The Tekton Pipelines Beta release (OpenSource) → https://goo.gle/3buV8fd  Here to bring you the latest developer news from across Google is Developer Advocate Dan Galpin. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs  Watch more #DevShow → https://goo.gle/GDevShow Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eukOuR4vqjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eukOuR4vqjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eukOuR4vqjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eukOuR4vqjg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eukOuR4vqjg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "eukOuR4vqjg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "uRLxn0WVLlx2RmsZlBK6icQ05xU",
+      "id": "MTUxNTg5Mzg1NjY2NjYxNjM1MzMwNDg5NzY=",
+      "snippet": {
+        "publishedAt": "2020-05-13T16:01:06Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Machine Learning Foundations: Ep #3 - Convolutions and pooling",
+        "description": "Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow.  In Episode 3 we’ll expand on our computer vision example from last time and introduce the concept of convolutions--what they are, and how they can be used in combination with pooling to help a computer understand the contents of an image.  Exercise 2 answer → https://goo.gle/3fsgPiY Colab: What are convolutions? → https://goo.gle/2L89MhI  TensorFlow is Google’s end-to-end open source machine learning platform. For more videos about TensorFlow, subscribe to the TF YouTube channel → https://goo.gle/TensorFlow  Machine Learning Foundations playlist → https://goo.gle/ml-foundations Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PCgLmzkRM38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PCgLmzkRM38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PCgLmzkRM38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PCgLmzkRM38/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PCgLmzkRM38/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "PCgLmzkRM38"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "SQbnZKx227-4z44q2QW7U_0JZCY",
+      "id": "MTUxNTg5MDQwMDI4NjYxNjM1MzMwNDY0MTY=",
+      "snippet": {
+        "publishedAt": "2020-05-09T16:00:28Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Machine Learning Foundations: Ep #2 - First steps in computer vision",
+        "description": "Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow.  In Episode 2 we’ll go beyond “Hello World” and start applying the fundamental patterns of building a neural network to more sophisticated scenarios, beginning with computer vision--how a computer can learn to “see.”  Exercise 1 answer → https://goo.gle/2SAJSay Computer vision example → https://goo.gle/34cHkDk Exercise 2 → https://goo.gle/2xEfFQo  TensorFlow is Google’s end-to-end open source machine learning platform. For more videos about TensorFlow, subscribe to the TF YouTube channel → https://goo.gle/TensorFlow  Machine Learning Foundations playlist → https://goo.gle/ml-foundations Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j-35y1M9rRU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j-35y1M9rRU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j-35y1M9rRU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j-35y1M9rRU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j-35y1M9rRU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "j-35y1M9rRU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "JPmJiiZrQ8jpXAmRZyyCgMyVVXs",
+      "id": "MTUxNTg4ODg1Mjg5NjYxNjM1MzMwNDYwOTY=",
+      "snippet": {
+        "publishedAt": "2020-05-07T21:01:29Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Flutter web support updates, BigQuery materialized views, Cloud Spanner emulator, & more!",
+        "description": "TL;DR 202 | The Google Developer News Show   •Flutter web support updates (Flutter) → https://goo.gle/2zdeWpQ •BigQuery: Efficient new views and Cloud AI integrations (Cloud) → https://goo.gle/3cctcxI •Data Catalog now GA (Cloud) → https://goo.gle/2yCw6gu •Cloud Spanner Emulator (Open Source) → https://goo.gle/2zdfhc6  Here to bring you the latest developer news from across Google is Developer Advocate Timothy Jordan. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs  Watch more #DevShow → https://goo.gle/GDevShow Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gx7vUyl-HXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gx7vUyl-HXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gx7vUyl-HXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gx7vUyl-HXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gx7vUyl-HXs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "gx7vUyl-HXs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "wQDBBDSXim1qu0gQf3kfzfKMJNw",
+      "id": "MTUxNTg4NzgwODI2NjYxNjM1MzMwNDc1Njg=",
+      "snippet": {
+        "publishedAt": "2020-05-06T16:00:26Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Machine Learning Foundations: Ep #1 - What is ML?",
+        "description": "Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow.  In Episode 1 we talk about what machine learning actually is and how it works, including a simple hands-on example to get you started building ML models--the “Hello World” of machine learning!  Example: The “Hello World” of ML → https://goo.gle/3dfRtD1 Exercise 1 → https://goo.gle/2zdSPzm  TensorFlow is Google’s end-to-end open source machine learning platform. For more videos about TensorFlow, subscribe to the TF YouTube channel → https://goo.gle/TensorFlow  Machine Learning Foundations playlist → https://goo.gle/ml-foundations Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Z9TRANg4c0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Z9TRANg4c0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Z9TRANg4c0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_Z9TRANg4c0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_Z9TRANg4c0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "_Z9TRANg4c0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "6ysKRT7BZjpgyr5Mj3oLQpFi3Tk",
+      "id": "MTUxNTg4MjgwNDAyNjYxNjM1MzMwNDg4NDg=",
+      "snippet": {
+        "publishedAt": "2020-04-30T21:00:02Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Android 11 Dev Preview 3, Google Fonts for Flutter, Shielded VM, & more!",
+        "description": "TL;DR 201 | The Google Developer News Show   •Android 11 Developer Preview 3 is available (Android) → https://goo.gle/2yTGeS4 •Introducing Google Fonts for Flutter v 1.0.0! (Flutter) → https://goo.gle/3aSp04G •6 new device, data, and user controls for G Suite (G Suite) → https://goo.gle/35ggbR3 •UEFI and Shielded VM now default for Google Compute Engine (Cloud) → https://goo.gle/2xkNPIX •Managed backup-restore for Spanner now generally available (Cloud) → https://goo.gle/3aV9PYJ •Apps, Games, & Insights podcast (Google Play) → https://goo.gle/2KJxzUR  Here to bring you the latest developer news from across Google is Developer Advocate Reto Meier. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs  Watch more #DevShow → https://goo.gle/GDevShow Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y4C-6anCbmk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y4C-6anCbmk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y4C-6anCbmk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y4C-6anCbmk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y4C-6anCbmk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "Y4C-6anCbmk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "1XQdtIGEblLaQxm0uBw9cu4si8I",
+      "id": "MTUxNTg4MDg2MDE4NjYxNjM1MzMwNDcxODQ=",
+      "snippet": {
+        "publishedAt": "2020-04-28T15:00:18Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Offline handling for smart home (AoG Pro Tips)",
+        "description": "On this episode of AoG Pro Tips, we’ll explore the best practices for reporting the state of unreachable devices with Dave Smith, Senior Developer Advocate at Google.    Links:  Learn more about smart home intents → https://goo.gle/2VxwOnY Smart home intent error responses → https://goo.gle/3eLDJl3 Share what you build with us using #AoGProTips on Twitter → https://goo.gle/2PYbOCS  AoG Pro Tips playlist → https://goo.gle/aogprotips Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bu71sE4sxjE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bu71sE4sxjE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bu71sE4sxjE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bu71sE4sxjE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bu71sE4sxjE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "bu71sE4sxjE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "l9vvRwHAKXAXmEDKoH03PdYMPjk",
+      "id": "MTUxNTg3Njc5MDQ1NjYxNjM1MzM2ODE1NTI=",
+      "snippet": {
+        "publishedAt": "2020-04-23T21:57:25Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "WebView DevTools, Kotlin meets gRPC, Flutter CodePen support, & more! (Episode 200)",
+        "description": "TL;DR 200 | The Google Developer News Show   •WebView DevTools in Beta (Android) → https://goo.gle/3azV39i •Introducing Dataflow template to stream data to Splunk (Cloud) → https://goo.gle/3ax3HW8 •Kotlin & gRPC (Cloud) → https://goo.gle/2znYaUZ •Protect your running VMs with new OS patch management service (Cloud) → https://goo.gle/3eNz4Pt •Supporting not-for-profit COVID-19 response with Google Maps Platform credits (Cloud) → https://goo.gle/350UZhK •Chrome 83 Beta (Chromium) → https://goo.gle/2XZ5DnK •Announcing CodePen support for Flutter (Flutter) → https://goo.gle/3eRycd1  Here to bring you the latest developer news from across Google is the Developer Show Team on this special 200th episode! Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs  Watch more #DevShow → https://goo.gle/GDevShow Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VFQB1zE9zYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VFQB1zE9zYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VFQB1zE9zYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VFQB1zE9zYU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VFQB1zE9zYU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "VFQB1zE9zYU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "eqV7oR9i6hMB3N80y20MhMYL8Hc",
+      "id": "MTUxNTg3NDgxMjA1NjYxNjM1MzM2ODI4MzI=",
+      "snippet": {
+        "publishedAt": "2020-04-21T15:00:05Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Device layout for Interactive Canvas Actions (AoG Pro Tips)",
+        "description": "On this episode of AoG Pro Tips, we’ll explore how to account for the header height in your Interactive Canvas Actions with our Google Assistant Developer Advocate, Mandy Chan @MandyChanNYC. Stay tuned for a brand new AoG Pro Tip next week!   Links:  Create your first Interactive Canvas Action by using this link → https://goo.gle/2JfT1Qp Share what you build with us using #AoGProTips on Twitter → https://goo.gle/2PYbOCS  AoG Pro Tips playlist → https://goo.gle/aogprotips Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Lz5O1D66v4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Lz5O1D66v4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Lz5O1D66v4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8Lz5O1D66v4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8Lz5O1D66v4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "8Lz5O1D66v4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "olZS6HThQAn1EQR-rEUDBlJvymE",
+      "id": "MTUxNTg3MDcwODM5NjYxNjM1MzM2ODQyNDA=",
+      "snippet": {
+        "publishedAt": "2020-04-16T21:00:39Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Contact Center AI, Android Studio 4.1 Canary 5, TensorFlow QAT API, & more!",
+        "description": "TL;DR 199 | The Google Developer News Show   •Rapid Response Virtual Agent program (Cloud) → https://goo.gle/3eqth2k •New Database Inspector in Android Studio 4.1 Canary 5 (Android) → https://goo.gle/2RDXp0i •Key Visualizer now in Cloud Bigtable console (Cloud) → https://goo.gle/3a8r48t •Announcing a free Flutter introductory course (Flutter) → https://goo.gle/3biIkJC •New in Chrome 81 (Web Essential) → https://goo.gle/2VCFHM6 •Quantization Aware Training (QAT) API (TensorFlow) → https://goo.gle/2XHYNmr  Here to bring you the latest developer news from across Google is Developer Advocate Dan Galpin. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs  Watch more #DevShow → https://goo.gle/GDevShow Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r3rX7Sd1Gis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r3rX7Sd1Gis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r3rX7Sd1Gis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r3rX7Sd1Gis/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r3rX7Sd1Gis/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "r3rX7Sd1Gis"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "Y0pEpy2Lsd7_WBVs7owtLm8pjgw",
+      "id": "MTUxNTg2ODc2NDIyNjYxNjM1MzM2ODI3MDQ=",
+      "snippet": {
+        "publishedAt": "2020-04-14T15:00:22Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "How to use error logs (AoG Pro Tips)",
+        "description": "On this episode of AoG Pro Tips, we’ll explore how to use Stackdriver error logs to debug and improve the quality of your Actions with Toni Klopfenstein (@ToniCorinne), Developer Advocate at Google. Stay tuned for a brand new AoG Pro Tip next week!   Links:  Error logging → https://goo.gle/39Jyi2i Troubleshooting your Actions → https://goo.gle/3482Qtv Share what you build with us using #AoGProTips on Twitter → https://goo.gle/2PYbOCS  AoG Pro Tips playlist → https://goo.gle/aogprotips Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RC1dAtizak0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RC1dAtizak0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RC1dAtizak0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RC1dAtizak0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RC1dAtizak0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "RC1dAtizak0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "yZyY5fhArc7VN4QjsaEK77x40Ec",
+      "id": "MTUxNTg2NTMwODE5NjYxNjM1MzM2ODM2MDA=",
+      "snippet": {
+        "publishedAt": "2020-04-10T15:00:19Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Building Actions for your community (Assistant on Air)",
+        "description": "Meet Ismael Chaile, a GDE for the Google Assistant. Ismael is the Founder and CEO for Aineth, a startup working with the Google Assistant and creating actions for the community. In this episode, Ismael will give us his tips for building and developing actions for the community.   Actions on Google docs → https://goo.gle/2YIelnq  Other episodes of Assistant on Air → https://goo.gle/2X0nBqG Please subscribe for more updates →  https://goo.gle/googledevs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/heNUPU9-uqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/heNUPU9-uqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/heNUPU9-uqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/heNUPU9-uqc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/heNUPU9-uqc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "heNUPU9-uqc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "qgWxE0VAW_tlQs8TBhJr4nkuJkQ",
+      "id": "MTUxNTg2NDY2MDM3NjYxNjM1MzM2ODE3NDQ=",
+      "snippet": {
+        "publishedAt": "2020-04-09T21:00:37Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Play updates, Bazel 3.0, Business Console for Google Pay, & more!",
+        "description": "TL;DR 198 | The Google Developer News Show   •Access Google Pay Business Console to get your Merchant ID → https://goo.gle/2KYRrDx Google Play updates and information: Resources for developers (Android) → https://goo.gle/2yLI8UK •Bazel 3.0 (Bazel) → https://goo.gle/2UUzrA8 •Local Home SDK Ready for Actions (G Devs) → https://goo.gle/3aV3UTX •Introducing Google Pay's new Business Console (G Devs) → https://goo.gle/2RmPpke •Temporarily rolling back SameSite Cookie Changes (Chromium) → https://goo.gle/3aUqTyP •Introducing the Model Garden for TensorFlow 2 (TensorFlow) → https://goo.gle/3e6a6uy  Here to bring you the latest developer news from across Google is Developer Advocate Dan Galpin. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs  Watch more #DevShow → https://goo.gle/GDevShow Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F9f21z7K1Ig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F9f21z7K1Ig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F9f21z7K1Ig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F9f21z7K1Ig/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F9f21z7K1Ig/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "F9f21z7K1Ig"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "LLF3-S19bQCgr4RBnPg6WSX37Yw",
+      "id": "MTUxNTg2MjcxNjEzNjYxNjM1MzM2ODE2MTY=",
+      "snippet": {
+        "publishedAt": "2020-04-07T15:00:13Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Test suite for smart home (AoG Pro Tips)",
+        "description": "On this episode of AoG Pro Tips, learn how the test suite for smart home Actions prepares you for certification with Dave Smith, Senior Developer Advocate for Google Assistant. Stay tuned for a brand new AoG Pro Tip next week!  Links: Learn more about the test suite for smart home → https://goo.gle/2Gp1Ru1 Prepare your smart home Actions for launch → https://goo.gle/2vUSLTY Get started building smart home Actions → https://goo.gle/2QVWsA3 Share what you build with us using #AoGProTips on Twitter → https://goo.gle/2PYbOCS  AoG Pro Tips playlist → https://goo.gle/aogprotips Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LHk4syomWcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LHk4syomWcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LHk4syomWcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LHk4syomWcc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LHk4syomWcc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "LHk4syomWcc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "szb2y9FICmEJCZoH35LuVatA5H8",
+      "id": "MTUxNTg1ODYxMjExNjYxNjM1MzM2ODA3MjA=",
+      "snippet": {
+        "publishedAt": "2020-04-02T21:00:11Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Firebase Kotlin Extensions, ARM apps on the Android Emulator, Angular v9.1, & more!",
+        "description": "TL;DR 197 | The Google Developer News Show   •Firebase Kotlin Extensions out of Beta (Firebase) → https://goo.gle/2R2UzS9 •Run ARM apps on the Android Emulator (Android) → https://goo.gle/2w5sUc6 •COVID-19 public dataset program (Cloud) → https://goo.gle/39zfXoD •Angular Version 9.1, Now Available (Angular) → https://goo.gle/3aCxKwD •Chrome and Chrome OS release updates (Chromium) → https://goo.gle/2JwmdD5 •OpenTelemetry is now beta (Open Source) → https://goo.gle/39EL2XT  Here to bring you the latest developer news from across Google is Developer Advocate Timothy Jordan. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs  Watch more #DevShow → https://goo.gle/GDevShow Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oytFceSq9Rs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oytFceSq9Rs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oytFceSq9Rs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oytFceSq9Rs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oytFceSq9Rs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "oytFceSq9Rs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "sYMaLeaIApxB2ogIVIiIO9VFd0I",
+      "id": "MTUxNTg1ODM5NjI1NjYxNjQ2MzY2ODYyODg=",
+      "snippet": {
+        "publishedAt": "2020-04-02T15:00:25Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Become A Developer Student Club Lead",
+        "description": "Become a Developer Student Club Lead to help train thousands of student developers globally and work with their communities to solve real-life problems. Empower others and join us in building a global community for students.  Interest forms for the upcoming 2020-2021 academic year are now available→ https://goo.gle/dsc-leads   Watch other DSC videos  → https://goo.gle/2X1xgvO  Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xMBkZRCA_Lo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xMBkZRCA_Lo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xMBkZRCA_Lo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xMBkZRCA_Lo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xMBkZRCA_Lo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "xMBkZRCA_Lo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "9261ZUofOYbOvWMGJ9SsYUDkk6s",
+      "id": "MTUxNTg1NzgwNTA2NjYxNjQ2MzY2ODgzMzY=",
+      "snippet": {
+        "publishedAt": "2020-04-01T22:35:06Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Building simpler payment experiences | Google Pay Plugin for Magento 2",
+        "description": "We are pleased to announce the launch of the official Google Pay plugin for Magento 2. Google Pay helps you seamlessly and securely integrate payments into your web and mobile apps bringing enhanced security, ability for customers to checkout using any device or platform, and much more!   Google Pay plugin for Magento 2 → https://goo.gle/GooglePay-Magento-Plugin  Access Google Pay Business Console to get your Merchant ID → https://goo.gle/2Uwx1aC  Learn more about Google Pay → https://goo.gle/2UQoBto  Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sR9zIQtTVZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sR9zIQtTVZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sR9zIQtTVZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sR9zIQtTVZI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sR9zIQtTVZI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "sR9zIQtTVZI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "lrhujyWC0qiRmCy-rlTDXk6h9Tw",
+      "id": "MTUxNTg1NjcxNTgzNjYxNjQ2MzY2ODc2MzI=",
+      "snippet": {
+        "publishedAt": "2020-03-31T16:19:43Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Developer Student Clubs 2019 Turkey Leads Summit",
+        "description": "Developer Student Club Leads are passionate leaders at their university who are dedicated to helping their peers learn and connect. These Leads may be pursuing various degrees but have a good foundational knowledge of software development concepts. Google selects DSC Leads once a year who are pursuing an undergraduate or graduate university degree and supports them as they start and grow their on-campus community.  Apply to be a lead → https://goo.gle/2MdD7sc  Developer Student Club Leads playlist → https://goo.gle/2KF0kCl Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GAoWVb_a9_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GAoWVb_a9_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GAoWVb_a9_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GAoWVb_a9_M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GAoWVb_a9_M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "GAoWVb_a9_M"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "PMd32ab0kD4AzV3vmqzPqrE4h4Y",
+      "id": "MTUxNTg1NjY2ODA0NjYxNjQ2MzY2ODU3NzY=",
+      "snippet": {
+        "publishedAt": "2020-03-31T15:00:04Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Share your Action (AoG Pro Tips)",
+        "description": "On this episode of AoG Pro Tips, we will learn about how you can leverage action links to increase discoverability of your action to more users with Jessica Dene Earley-Cha, Developer Advocate for Google Assistant. Stay tuned for a brand new AoG Pro Tip next week!  Links: Docs → https://goo.gle/3aibgki Codelab → https://goo.gle/3avFBvJ Blog → https://goo.gle/33YMq6s Share what you build with us using #AoGProTips on Twitter → https://goo.gle/2PYbOCS  AoG Pro Tips playlist → https://goo.gle/aogprotips Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/489HeFLy8D0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/489HeFLy8D0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/489HeFLy8D0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/489HeFLy8D0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/489HeFLy8D0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "489HeFLy8D0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "h3ytmV-2mR1p90HLdM6BSCs00VQ",
+      "id": "MTUxNTg1MzI0ODIwNjYxNjQ2MzY2ODc4MjQ=",
+      "snippet": {
+        "publishedAt": "2020-03-27T16:00:20Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Top 5 from the TensorFlow Dev Summit 2020",
+        "description": "If you missed the TensorFlow Dev Summit 2020, TF Product Manager Paige Bailey (@DynamicWebPaige) provides a recap on the top 5 releases from the event. Watch now for a summary of the best new features!  Watch all TensorFlow Dev Summit 2020 sessions → https://goo.gle/TFDS20 Subscribe to TensorFlow → https://goo.gle/TensorFlow  Resources: Recap of the 2020 TensorFlow Dev Summit → https://goo.gle/2Ug59Gw Machine Learning Crash Course → https://goo.gle/2U4nCa9 TensorFlow Profiler → https://goo.gle/2Qs7RHU Google Summer of Code → https://goo.gle/38UBqIo Faculty awards to support ML courses, diversity, and inclusion → https://goo.gle/38NCNIZ TensorFlow Research Cloud → https://goo.gle/2WoGZw1 Fairness Indicators → https://goo.gle/3daZXw9 What-If Tool → https://goo.gle/3b8fv1K TensorFlow Federated → https://goo.gle/2PtAp2f Responsible AI DevPost Challenge → https://goo.gle/395HEFb TensorFlow Developer Certificate → https://goo.gle/3b6IKlz  The Developer Show - Events Spotlight → https://goo.gle/2od3GEy Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SZXJ-yBN60Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SZXJ-yBN60Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SZXJ-yBN60Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SZXJ-yBN60Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SZXJ-yBN60Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "SZXJ-yBN60Q"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "D9CLg32LT-VqPHIj8M68NqNDvbA",
+      "id": "MTUxNTg1MjYxOTcxNjYxNjQ2MzY2ODcwNTY=",
+      "snippet": {
+        "publishedAt": "2020-03-26T22:32:51Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "TensorFlow Dev Summit ‘20, Google for Games Dev Summit, Cloud AI Platform Pipelines, & much more!",
+        "description": "TL;DR 196 | The Google Developer News Show   •2020 TensorFlow Dev Summit → https://goo.gle/2y96szr •Top 5 from the TF Dev Summit → https://goo.gle/3dwHDh9 •Google for Games Developer Summit → https://goo.gle/2QOheS8 •Firebase Games Developer Announcements → https://goo.gle/2WWRzLd •Android Games Developer Announcements → https://goo.gle/2UkQxqn •Introducing Game Servers → https://goo.gle/33Nn0J7 •Machine images for Compute Engine → https://goo.gle/2xoeCUr •Introducing Cloud AI Platform Pipelines → https://goo.gle/3aoWbgP •Mobile real-time 3D object detection with MediaPipe → https://goo.gle/3dAUzCS •What's New In DevTools (Chrome 82) → https://goo.gle/33OE5lM  Here to bring you the latest developer news from across Google is Developer Advocate Timothy Jordan. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃  Follow Google Developers on Instagram → https://goo.gle/googledevs  Watch more #DevShow → https://goo.gle/GDevShow Subscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QNUa6B5S66E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QNUa6B5S66E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QNUa6B5S66E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QNUa6B5S66E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QNUa6B5S66E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "QNUa6B5S66E"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "78mFMXBevZBVm6_vcrxJCc3u2dU",
+      "id": "MTUxNTg1MjQyMDA5NjYxNjQ2MzY2ODUyMDA=",
+      "snippet": {
+        "publishedAt": "2020-03-26T17:00:09Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Extend your Android app to the Google Assistant (Assistant on Air)",
+        "description": "Meet Eliza Camberogiannis, a GDE for the Google Assistant. Eliza is a passionate Android developer who just recently joined the Google Developer Experts team. In this episode, we’ll learn how to extend your Android app to the Google Assistant.   Links: Codelab → https://goo.gle/2wBY0s7 Actions on Google docs → https://goo.gle/2YIelnq  Other episodes of Assistant on Air → https://goo.gle/2X0nBqG Please subscribe for more updates →  https://goo.gle/googledevs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pIiO-nPC7kI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pIiO-nPC7kI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pIiO-nPC7kI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pIiO-nPC7kI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pIiO-nPC7kI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "pIiO-nPC7kI"
+        }
+      }
+    }
+  ],
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 101,
+    "resultsPerPage": 50
+  }
+}
